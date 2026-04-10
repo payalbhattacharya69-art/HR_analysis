@@ -28,8 +28,3 @@ This project presents an interactive HR Analytics dashboard developed using Powe
 - Attrition analysis by age and education
 - Interactive visuals for better exploration
 - Clean and user-friendly dashboard design
-
-## ▶️ How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Interact with filters and visuals to explore insights
